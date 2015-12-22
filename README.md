@@ -1,0 +1,2 @@
+# Tootsie-Pop-Lick-Simulator
+This is a project I did in an undergraduate class in which we simulated licking a tootsie pop.  I teamed up with some Physics majors and they're the ones who did the research and discovered/invented the equation.  I merely programmed their equations and programmed the graphics.  (I used VPython and Vidle to create the graphics.  http://vpython.org/contents/download_windows.html)  To watch a video of this program in action you may view it on: https://youtu.be/gxR-2McL90s
